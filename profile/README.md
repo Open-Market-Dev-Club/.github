@@ -3,7 +3,7 @@ Gosti Network is a next-gen decentralized content distribution network currently
 
 Our Goal is to replace centralized digital content marketplaces like Steam with a decentralized system that is free and permissionless for content publishers, and provides a truly open and peer-to-peer software ecosystem for all of our users.
 
-Gosti is built from the ground up to protect and promote the rights of consumers to own the products they buy, and to enable truly open markets free from middlemen.
+Gosti is built from the ground up to protect and promote the rights of consumers to own the products they buy, and to enable truly open markets free from middlemen and censorship.
 
 For more information, see https://about.gosti.network
 
