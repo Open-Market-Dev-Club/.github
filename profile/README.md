@@ -8,6 +8,8 @@ Gosti is built from the ground up to protect and promote the rights of consumers
 ## Contribution
 We need contributers! If you are interested in our mission, and want to support the development of Gosti Network, please get in touch. We are an extremely small team, with an absurdly huge goal. We need all the help we can get in terms of manpower, marketing, and of course financial support.
 
+Contact: gostinetwork@gmail.com
+
 <!--
 
 **Here are some ideas to get you started:**
