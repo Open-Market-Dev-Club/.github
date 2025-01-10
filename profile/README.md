@@ -5,7 +5,7 @@ Our Goal is to replace centralized digital content marketplaces like Steam with 
 
 Slime Network is designed from the ground up to protect and promote the rights of consumers to own the products they buy, and to enable truly open markets free from middlemen and censorship.
 
-For more information, see https://about.gosti.network
+For more information, see https://about.slimenetwork.org
 
 ## Contribution
 We need contributers! If you are interested in our mission, and want to support the development of Slime Network, please get in touch. We are an extremely small team, with an absurdly huge goal. We need all the help we can get in terms of manpower, marketing, and of course financial support.
